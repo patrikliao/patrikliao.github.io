@@ -2638,6 +2638,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .portfolio-area .filters-content {
   margin-top: 50px;
+  margin: 0 auto;
 }
 
 .portfolio-area .filters-content .show {
